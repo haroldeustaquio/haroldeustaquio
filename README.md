@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Harold Eustaquio, a 4th-year student at the National University of Engineering, Lima, Perú and an exchange student in Computer Engineering at UNAM in Mexico. My main interests are:
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Big Data 💻
 
 <!--
 - 🔭 I’m currently working on ...
