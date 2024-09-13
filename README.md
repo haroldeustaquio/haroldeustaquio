@@ -5,12 +5,6 @@ I'm Harold Eustaquio, a 4th-year student at the National University of Engineeri
 - Deep Learning 🖥️
 - Big Data 💻
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&hide=contribs,prs)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&count_private=true)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true)
 <!--
 - 🔭 I’m currently working on ...
@@ -21,5 +15,12 @@ I'm Harold Eustaquio, a 4th-year student at the National University of Engineeri
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&hide=contribs,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&count_private=true)
+
 -->
 
