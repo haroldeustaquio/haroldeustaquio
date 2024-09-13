@@ -5,6 +5,9 @@ I'm Harold Eustaquio, a 4th-year student at the National University of Engineeri
 - Deep Learning 🖥️
 - Big Data 💻
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
