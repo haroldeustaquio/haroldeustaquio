@@ -5,7 +5,7 @@ I'm Harold Eustaquio, a 4th-year student of Electronic Engineering at the Nation
 - Deep Learning 🖥️
 - Big Data 💻
 
-![Harold's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true)
+![Harold's github stats](https://github-readme-stats.vercel.app/api?username=haroldeustaqui&show_icons=true)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
