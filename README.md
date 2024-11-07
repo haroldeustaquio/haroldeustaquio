@@ -1,4 +1,3 @@
-<!--
 ## Hi there 👋
 I'm Harold Eustaquio, a 4th-year student of Electronic Engineering at the National University of Engineering (UNI) in Lima, Perú, and an exchange student in Computer Engineering at UNAM, Mexico. My main interests are:
 - Data Analysis 📈
