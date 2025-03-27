@@ -7,11 +7,23 @@ I'm Harold Eustaquio, a 5th-year student of Electronic Engineering at the Nation
 
 ---
 
+## 🌐 Portfolio & Website  
+
+Want to see what I’ve been working on?  
+👉 Check out my [portfolio and personal website](https://haroldeustaquio.com) to explore my projects and experience in data science, machine learning, and more.
+
+---
+
+## 💬 Connect with me  
+
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/haroldeustaquio) or explore my repositories to learn more about my work.
+
+---
+
 ## :boom: Github Stats 
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldeustaquio&theme=light&hide_border=false&background=ffffff&stroke=000000&ring=00ccff&fire=00ccff&currStreakNum=000000&sideNums=000000&currStreakLabel=00ccff" alt="Harold's Streak Stats" >
-    
 </p>
 
 <p align="center">
@@ -21,9 +33,6 @@ I'm Harold Eustaquio, a 5th-year student of Electronic Engineering at the Nation
 
 ---
 <!--
-## 💬 Connect with me
-
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/haroldeustaquio) or explore my repositories to learn more about my projects in data analysis, machine learning, and deep learning.
 
 ---
 
