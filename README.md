@@ -1,46 +1,72 @@
-## Hi there 👋
-I'm Harold Eustaquio, a 5th-year student of Electronic Engineering at the National University of Engineering (UNI) in Lima, Perú, and an exchange student in Computer Engineering at UNAM, Mexico. My main interests are:
-- Data Analysis 📈
-- Machine Learning 🤖
-- Deep Learning 🖥️
-- Big Data 💻
+# Hi, I'm Harold Eustaquio 👋
+
+### AI Systems Engineer
+
+I build production-grade AI systems powered by Large Language Models (LLMs), cloud infrastructure, and distributed architectures.
+
+My work focuses on designing autonomous AI agents, enterprise Retrieval-Augmented Generation (RAG) systems, scalable backend services, and data-intensive applications running in production.
 
 ---
 
-## 🌐 Portfolio & Website  
+## 🚀 What I Build
 
-Want to see what I’ve been working on?  
-👉 Check out my [portfolio and personal website](https://haroldeustaquio.com) to explore my projects and experience in data science, machine learning, and more.
-
----
-
-## 💬 Connect with me  
-
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/haroldeustaquio) or explore my repositories to learn more about my work.
+- 🤖 Autonomous AI Agents with LangGraph
+- 📚 Enterprise RAG Systems
+- 🧠 LLM Applications
+- ⚡ High-performance FastAPI Backends
+- ☁️ Cloud-native Solutions on AWS
+- 🔄 Distributed & Event-driven Architectures
 
 ---
 
-## :boom: Github Stats 
+## 🛠 Tech Stack
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldeustaquio&theme=light&hide_border=false&background=ffffff&stroke=000000&ring=00ccff&fire=00ccff&currStreakNum=000000&sideNums=000000&currStreakLabel=00ccff" alt="Harold's Streak Stats" >
-</p>
+### AI
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true" alt="Harold's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldeustaquio&theme=light&hide_border=true&bg_color=ffffff&title_color=00ccff&text_color=000000&icon_color=00ccff&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
+- LangGraph
+- LangChain
+- OpenAI
+- Anthropic
+- Gemini
+- LlamaParse
+- Pinecone
+- Prompt Engineering
+
+### Backend
+
+- Python
+- FastAPI
+- AsyncIO
+- Redis
+- MongoDB
+- PostgreSQL
+
+### Cloud
+
+- AWS Lambda
+- ECS
+- EventBridge
+- S3
+- Glue
+- Athena
+- Redshift
+- Step Functions
+
+### Data & ML
+
+- PyTorch
+- Spark
+- PySpark
+- Computer Vision
+- NLP
+- ETL Pipelines
 
 ---
-<!--
-
----
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:
+## 🌐 Find Me
+
+- Portfolio: https://haroldeustaquio.com
+- LinkedIn: https://linkedin.com/in/harold-eustaquio
+
+Thanks for visiting my profile!
