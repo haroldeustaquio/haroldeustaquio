@@ -1,72 +1,33 @@
-# Hi, I'm Harold Eustaquio 👋
+# Harold Eustaquio
 
 ### AI Systems Engineer
 
-I build production-grade AI systems powered by Large Language Models (LLMs), cloud infrastructure, and distributed architectures.
+Building intelligent systems that combine AI, backend engineering, and cloud infrastructure.
 
-My work focuses on designing autonomous AI agents, enterprise Retrieval-Augmented Generation (RAG) systems, scalable backend services, and data-intensive applications running in production.
+My work focuses on autonomous AI agents, enterprise RAG systems, scalable backend architectures, and cloud-native applications.
 
----
-
-## 🚀 What I Build
-
-- 🤖 Autonomous AI Agents with LangGraph
-- 📚 Enterprise RAG Systems
-- 🧠 LLM Applications
-- ⚡ High-performance FastAPI Backends
-- ☁️ Cloud-native Solutions on AWS
-- 🔄 Distributed & Event-driven Architectures
+🌐 **Portfolio:** https://haroldeustaquio.com  
+💼 **LinkedIn:** https://linkedin.com/in/harold-eustaquio
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Currently Focused On
 
-### AI
-
-- LangGraph
-- LangChain
-- OpenAI
-- Anthropic
-- Gemini
-- LlamaParse
-- Pinecone
-- Prompt Engineering
-
-### Backend
-
-- Python
-- FastAPI
-- AsyncIO
-- Redis
-- MongoDB
-- PostgreSQL
-
-### Cloud
-
-- AWS Lambda
-- ECS
-- EventBridge
-- S3
-- Glue
-- Athena
-- Redshift
-- Step Functions
-
-### Data & ML
-
-- PyTorch
-- Spark
-- PySpark
-- Computer Vision
-- NLP
-- ETL Pipelines
+- Autonomous AI Agents
+- Enterprise RAG
+- AI Infrastructure
+- LLM Applications
+- Scalable Backend Systems
 
 ---
 
+## 💥 GitHub Stats
 
-## 🌐 Find Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldeustaquio&theme=light&hide_border=false&background=ffffff&stroke=000000&ring=00ccff&fire=00ccff&currStreakNum=000000&sideNums=000000&currStreakLabel=00ccff" />
+</p>
 
-- Portfolio: https://haroldeustaquio.com
-- LinkedIn: https://linkedin.com/in/harold-eustaquio
-
-Thanks for visiting my profile!
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldeustaquio&layout=compact&hide_border=true"/>
+</p>
