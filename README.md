@@ -25,6 +25,5 @@ My work focuses on autonomous AI agents, enterprise RAG systems, scalable backen
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=haroldeustaquio&border_radius=3)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true&theme=default&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldeustaquio&layout=compact&hide_border=true"/>
 </p>
