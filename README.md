@@ -6,7 +6,6 @@ Building intelligent systems that combine AI, backend engineering, and cloud inf
 
 My work focuses on autonomous AI agents, enterprise RAG systems, scalable backend architectures, and cloud-native applications.
 
-🌐 **Portfolio:** https://haroldeustaquio.com  
 💼 **LinkedIn:** https://linkedin.com/in/harold-eustaquio
 
 ---
@@ -23,9 +22,7 @@ My work focuses on autonomous AI agents, enterprise RAG systems, scalable backen
 
 ## 💥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldeustaquio&theme=light&hide_border=false&background=ffffff&stroke=000000&ring=00ccff&fire=00ccff&currStreakNum=000000&sideNums=000000&currStreakLabel=00ccff" />
-</p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=haroldeustaquio&border_radius=3)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haroldeustaquio&show_icons=true&theme=default&hide_border=true"/>
