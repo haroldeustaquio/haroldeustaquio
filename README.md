@@ -22,7 +22,7 @@ My work focuses on autonomous AI agents, enterprise RAG systems, scalable backen
 
 ## 💥 GitHub Stats
 
-[![GitHub Stats Card](https://ghstats.dev/api/card?username=haroldeustaquio&theme=light&hide=prs,issues,commits,repos)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=haroldeustaquio&theme=light&hide=prs,issues,commits,repos)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldeustaquio&theme=light&hide_border=false&background=ffffff&stroke=000000&ring=00ccff&fire=00ccff&currStreakNum=000000&sideNums=000000&currStreakLabel=00ccff" />
